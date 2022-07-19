@@ -7,4 +7,8 @@ To start project use yarn dev
 yarn add @reduxjs/toolkit react-redux
 
 ## Config store and slices
-Create file store/store.js 
+Create file store/store.js
+
+## Make request
+First with fecth and then with axios
+install: yarn add axios
